@@ -10,6 +10,14 @@ Prerequisites: [Node.js](https://nodejs.org/en/) (>=6.x, 8.x preferred), npm ver
 $ npm install -g fe-workspace
 ```
 
+If you get a new and pure environment, please download this tool from [here](https://github.com/xconceal/fec/archive/master.zip).
+
+``` bash
+$ unzip fec-master.zip
+$ cd fec-master
+$ sh initWork
+```
+
 ### Usage
 ``` bash
 $ fec
