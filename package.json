@@ -1,0 +1,19 @@
+{
+  "name": "fe-workspace",
+  "description": "initialize front-end work space",
+  "author": {
+    "name": "JerryZhang"
+  },
+  "license": "MIT",
+  "keywords": [
+    "front-end",
+    "workspace"
+  ],
+  "version": "1.0.8",
+  "bin": {
+    "fec": "initWork"
+  },
+  "dependencies": {
+    "chromedriver": "^2.37.0"
+  }
+}
